@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isiekwene Chisom Joan</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on [Stripewaves](https://stripewavesltd.com/)
+- 🔭 Check out my projects on [My Portfolio](https://devchisomjoan.vercel.app/)
   
 -  👯 I’m looking to collaborate on **impactful projects that offer recognition, meaningful connections, or industry exposure**
 
@@ -27,7 +27,7 @@ Description: A sleek, one-page website for a data company, providing an overview
 Tech Stack: React.js, Typescript, Tailwind CSS, Shadcn
 
 ### 🔹 [Ecommerce Web-app](https://stripewavesltd.com/)
-Description: A sleek, one-page website for a data company, providing an overview of services and expertise in data solutions.
+Description: An eCommerce platform built for Stripewaves Ltd to showcase and sell logistics-related products and services. Features a responsive UI, product listings, and a streamlined shopping experience.
 Tech Stack: React.js, Typescript, Tailwind CSS, Shadcn
 
 ### 🔹 [Mini Todo App](https://task-managing-app.vercel.app/)
