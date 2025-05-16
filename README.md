@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chisomisiekwene57@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/my-drive?q=parent:0AO2AaPgSBTy0Uk9PVA%20after:2025-05-09)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/112aVum6UERxY0PoH8wFbPRdsTxLr1cne/view?usp=drive_link)
 
 - ⚡ Fun fact **I enjoy traveling and living my best life, but I somehow always end up back in front of VS Code! ✈️😎💻**
 
